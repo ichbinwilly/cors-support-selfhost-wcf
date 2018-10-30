@@ -1,0 +1,9 @@
+D:\Shared\CorsSupport\CorsSupport\TestJsonOnChrome\bin\TestJsonOnChrome.dll
+D:\Shared\CorsSupport\CorsSupport\TestJsonOnChrome\bin\TestJsonOnChrome.pdb
+D:\Shared\CorsSupport\CorsSupport\TestJsonOnChrome\bin\Service.dll
+D:\Shared\CorsSupport\CorsSupport\TestJsonOnChrome\bin\WebHttpCors.dll
+D:\Shared\CorsSupport\CorsSupport\TestJsonOnChrome\bin\Service.pdb
+D:\Shared\CorsSupport\CorsSupport\TestJsonOnChrome\bin\WebHttpCors.pdb
+D:\Shared\CorsSupport\CorsSupport\TestJsonOnChrome\obj\Debug\TestJsonOnChrome.dll
+D:\Shared\CorsSupport\CorsSupport\TestJsonOnChrome\obj\Debug\TestJsonOnChrome.pdb
+D:\Shared\CorsSupport\CorsSupport\TestJsonOnChrome\obj\Debug\TestJsonOnChrome.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\Shared\CorsSupport\CorsSupport\SelfHost\bin\Debug\SelfHost.exe.config
+D:\Shared\CorsSupport\CorsSupport\SelfHost\bin\Debug\SelfHost.exe
+D:\Shared\CorsSupport\CorsSupport\SelfHost\bin\Debug\SelfHost.pdb
+D:\Shared\CorsSupport\CorsSupport\SelfHost\bin\Debug\Service.dll
+D:\Shared\CorsSupport\CorsSupport\SelfHost\bin\Debug\WebHttpCors.dll
+D:\Shared\CorsSupport\CorsSupport\SelfHost\bin\Debug\Service.pdb
+D:\Shared\CorsSupport\CorsSupport\SelfHost\bin\Debug\WebHttpCors.pdb
+D:\Shared\CorsSupport\CorsSupport\SelfHost\obj\x86\Debug\SelfHost.csprojResolveAssemblyReference.cache
+D:\Shared\CorsSupport\CorsSupport\SelfHost\obj\x86\Debug\SelfHost.exe
+D:\Shared\CorsSupport\CorsSupport\SelfHost\obj\x86\Debug\SelfHost.pdb

@@ -1,0 +1,4 @@
+D:\Shared\CorsSupport\CorsSupport\Service\bin\Debug\Service.dll
+D:\Shared\CorsSupport\CorsSupport\Service\bin\Debug\Service.pdb
+D:\Shared\CorsSupport\CorsSupport\Service\obj\Debug\Service.dll
+D:\Shared\CorsSupport\CorsSupport\Service\obj\Debug\Service.pdb
